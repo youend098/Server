@@ -8,8 +8,8 @@
 <pre><code>wget https://raw.githubusercontent.com/youend098/Server/main/update.sh && chmod +x update.sh && ./update.sh</code></pre>
 
 ### SUPPORT OS 
-> UBUNTU 20+
-> DEBIAN 10+
+- UBUNTU 20+
+- DEBIAN 10+
 
 ### INFO PORT
 > TROJAN WS 443
