@@ -1,10 +1,10 @@
-### USER LOGIN ROOT
+### LOGIN USER ROOT
 <pre><code>sudo su</code></pre>
 
 ### GANTI PASWORD ROOT
 <pre><code>sudo passwd root</code></pre>
 
-### SETTING PERMISSION ROOT
+### SETTING PERMISSION LOGIN ROOT
 <pre><code>nano /etc/ssh/sshd_config</code></pre>
 
 ### INSTALL SCRIPT 
