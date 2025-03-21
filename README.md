@@ -1,5 +1,5 @@
 ### USER LOGIN ROOT
-<pre>sudo su
+<code>sudo su
 
 ### GANTI PASWORD ROOT
 sudo passwd root
