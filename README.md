@@ -1,9 +1,12 @@
 ### USER LOGIN ROOT
-<code>sudo su
+<code>sudo su<code>
+
 ### GANTI PASWORD ROOT
-<code>sudo passwd root
+<code>sudo passwd root<code>
+
 ### SETTING PERMISSION ROOT
-<code>nano /etc/ssh/sshd_config
+<code>nano /etc/ssh/sshd_config<code>
+
 ### INSTALL SCRIPT 
 <pre><code>apt install -y && apt update -y && apt upgrade -y && apt install lolcat -y && gem install lolcat && wget -q https://raw.githubusercontent.com/youend098/Server/main/setup.sh && chmod +x setup.sh && ./setup.sh
 </code></pre>
